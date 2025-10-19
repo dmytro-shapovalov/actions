@@ -1,3 +1,3 @@
 # General instructions
 
-**Commit messages** - use conventinal commits (type: description)
+**Commit messages** - use conventional commits (type: description)
